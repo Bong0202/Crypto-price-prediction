@@ -1,6 +1,6 @@
 # Crypto-price-prediction
 
-# Bitcoin Price Forecasting using Ridge Regression (ISYE 6501-Inspired Project)
+# Bitcoin Price Forecasting using Ridge Regression 
 
 This project focuses on applying machine learning to forecast the price of Bitcoin (BTC-USD) using historical time-series data and engineered features. This project uses Ridge Regression as a baseline forecasting model and prepares the foundation for more advanced models like Random Forest and XGBoost.
 
